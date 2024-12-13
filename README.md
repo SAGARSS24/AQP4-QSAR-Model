@@ -1,6 +1,6 @@
 Abstract of the project : 
 
-![Graphical Abstract](./Graphical%20abstract.png)
+![Graphical Abstract](./Graphical%20abstract.jpg)
 
 This repositpry concerns with the trained weka RBF model whihc is ready to deployed in knime envrionment
 1. First access model through the following link : https://hub.knime.com/s/k8MZPdCVLQARwEZL 
